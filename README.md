@@ -1,0 +1,2 @@
+# examplePodspec
+for ExampleFramework Podspec
